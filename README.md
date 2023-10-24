@@ -6,32 +6,26 @@
 
 <p align="left"> <a href="https://twitter.com/mehfooz_ali1" target="blank"><img src="https://img.shields.io/twitter/follow/mehfooz_ali1?logo=twitter&style=for-the-badge" alt="mehfooz_ali1" /></a> </p>
 
-- 🔭 I’m currently working on [Mehran Services](http://mstaxsolution.com/)
+- 🔭 I’m currently working on Fiver
 
-- 🌱 I’m currently learning **Django Back-End Development & Artificial Intelligence (AI, ML,DP)**
+- 🌱 I’m currently learning ** Artificial Intelligence, Flutter, API (AI, ML,DP)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python, Java, Django**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python, Java, Flutter, Dart, **
 
-- 📫 How to reach me **graphicx.mehfooz201@gmail.com**
-
-- 📄 Know about my experiences [https://mprofile.mstaxsolution.com/](https://mprofile.mstaxsolution.com/)
+- 📫 How to reach me **sheezybajwa@gmail.com**
 
 - ⚡ Fun fact **A machine that turns "coffee" into "code"**
 
 <br>
 <h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehfooz201" alt="mehfooz201" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheraz-bajwa" alt="mehfooz201" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mehfooz_ali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehfooz_ali1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehfooz-ali-0928a01b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehfooz-ali-0928a01b0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mehfooz ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehfooz ali" height="30" width="40" /></a>
-<a href="https://kaggle.com/mehfoozali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehfoozali" height="30" width="40" /></a>
-<a href="https://fb.com/mehfooz.shayan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehfooz.shayan2" height="30" width="40" /></a>
-<a href="https://instagram.com/mehfooz.shayan201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehfooz.shayan201" height="30" width="40" /></a>
-<a href="https://www.behance.net/graphy_mehfooz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="graphy_mehfooz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-sheraz-ramzan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehfooz-ali-0928a01b0/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sheraz.bajwa.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehfooz.shayan2" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_sherry.007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehfooz.shayan201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
